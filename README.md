@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm CTO and Backend developers. If you want hire me, please contact me on Telegram: [@ArsenySokolov](https://t.me/ArsenySokolov)
 
 <!--
 **arsensokolov/arsensokolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
